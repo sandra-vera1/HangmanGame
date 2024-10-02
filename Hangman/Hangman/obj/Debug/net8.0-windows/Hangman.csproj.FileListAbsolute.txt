@@ -1,0 +1,16 @@
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.exe
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.deps.json
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.runtimeconfig.json
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.dll
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.pdb
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Form1.resources
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.GenerateResource.cache
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfoInputs.cache
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfo.cs
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.CoreCompileInputs.cache
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.dll
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\refint\Hangman.dll
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.pdb
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.genruntimeconfig.cache
+C:\Repos\3-Term-RapidApplication\Hangman\Hangman\obj\Debug\net8.0-windows\ref\Hangman.dll
